@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+8#include<bits/stdc++.h>
 using namespace std;
 void printS(int i,int s,vector<int> arr,vector<int> dp,int sum, int n){
     if(i==n){
